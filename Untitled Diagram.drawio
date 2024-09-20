@@ -5,13 +5,22 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="T6odC79nI45NhNFSmVIs-2" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=25;" vertex="1" parent="1">
-          <mxGeometry x="320" y="50" width="490" height="490" as="geometry" />
+          <mxGeometry x="270" y="20" width="570" height="560" as="geometry" />
         </mxCell>
-        <mxCell id="T6odC79nI45NhNFSmVIs-4" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.computer;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="190" width="50" height="45" as="geometry" />
+        <mxCell id="T6odC79nI45NhNFSmVIs-4" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.computer;pointerEvents=1;direction=east;" vertex="1" parent="1">
+          <mxGeometry x="70" y="360" width="50" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="T6odC79nI45NhNFSmVIs-5" value="AVD" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="450" y="240" width="60" height="30" as="geometry" />
+        <mxCell id="T6odC79nI45NhNFSmVIs-5" value="&lt;div&gt;Poste AVD&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="250" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T6odC79nI45NhNFSmVIs-6" value="" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;fillColor=#3B8DF1;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;shape=mxgraph.gcp2.cloud_computer" vertex="1" parent="1">
+          <mxGeometry x="430" y="152" width="110" height="96.8" as="geometry" />
+        </mxCell>
+        <mxCell id="T6odC79nI45NhNFSmVIs-7" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=15;dx=38;arrowHead=50;" vertex="1" parent="1">
+          <mxGeometry x="90" y="180" width="330" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="T6odC79nI45NhNFSmVIs-11" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/database_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="680" y="356.22" width="81" height="98.78" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
