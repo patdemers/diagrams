@@ -22,6 +22,12 @@
         <mxCell id="T6odC79nI45NhNFSmVIs-11" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/database_server.svg;" vertex="1" parent="1">
           <mxGeometry x="680" y="356.22" width="81" height="98.78" as="geometry" />
         </mxCell>
+        <mxCell id="T6odC79nI45NhNFSmVIs-12" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;" vertex="1" parent="1">
+          <mxGeometry x="10" y="350" width="47.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="T6odC79nI45NhNFSmVIs-13" value="Tenant Retraite Québec" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="460" y="100" width="150" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
